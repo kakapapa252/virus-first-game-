@@ -1,2 +1,3 @@
 python version - Python 3.8.2
 pip install pygame
+run (file location)>python main.py
